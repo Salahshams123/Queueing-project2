@@ -1,0 +1,55 @@
+
+.stochastic{
+    display: none;
+}
+.deterministic{
+    display: none;
+}
+form{
+    position: relative;
+    width: 600px;
+    margin: auto;
+    padding: 15px;
+    border: 1px solid #ccc;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+h3{
+    text-align: center
+}
+
+.deterministic{
+    padding: 15px;
+}
+label{
+    padding: 10px;
+    font-size: 20px;
+}
+input{
+    width: 90%;
+    display: block;
+    margin: 10px;
+}
+button{
+   margin-left: 220px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+.outputs{
+    padding: 20px;
+    font-size: 25px;
+}
+.outputs div{
+    margin-bottom: 10px;
+}
+.chooes-type{
+    text-align: center;
+}
+.chooes-type input{
+    display: inline-block;
+    width: 10px;
+}
+#b_1, #b_2, #b_3, #b_4{
+    display: none;
+}
+
